@@ -1,0 +1,7 @@
+{
+  "functions": {
+    "api/scrape-ep.js": {
+      "maxDuration": 30
+    }
+  }
+}
